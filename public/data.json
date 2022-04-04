@@ -1,0 +1,62 @@
+[
+    {
+      "id": "16e6c5",
+      "price": "740",
+      "picture": "./images/image1.jpg",
+      "name": "Darlene Schwartz"
+    },
+    {
+      "id": "2f68fc",
+      "price": "520",
+      "picture": "./images/image2.jpg",
+      "name": "Candice Cross"
+    },
+    {
+      "id": "fb0fd5",
+      "price": "800",
+      "picture": "./images/image3.jpg",
+      "name": "Alicia Curry"
+    },
+    {
+      "id": "142ce5",
+      "price": "1100",
+      "picture": "./images/image4.jpg",
+      "name": "Jay Mitchell"
+    },
+    {
+      "id": "f472013",
+      "price": "1000",
+      "picture": "./images/image5.jpg",
+      "name": "Brandon Greer"
+    },
+    {
+      "id": "39bc55",
+      "price": "950",
+      "picture": "./images/image6.jpg",
+      "name": "Angela Salazar"
+    },
+    {
+      "id": "62k30b",
+      "price": "1400",
+      "picture": "./images/image7.jpg",
+      "name": "Bryant Walsh"
+    },
+    {
+      "id": "61i50b",
+      "price": "1700",
+      "picture": "./images/image8.jpg",
+      "name": "Kim Mullins"
+    },
+    {
+      "id": "5jk3ds",
+      "price": "1350",
+      "picture": "./images/image9.jpg",
+      "name": "Hilda Daniels"
+    },
+    {
+      "id": "62a50b",
+      "price": "1500",
+      "picture": "./images/image10.jpg",
+      "name": "Willie Strickland"
+    }
+  ]
