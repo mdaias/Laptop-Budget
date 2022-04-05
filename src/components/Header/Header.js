@@ -11,7 +11,7 @@ const Header = () => {
                     Laptop Budget
                 </Link>
             </div>
-            <div className='flex gap-4 text-xl font-bold'>
+            <div className='flex gap-4 md:text-xl text-sm font-bold'>
                 <CustomLink to='/home'>HOME</CustomLink>
                 <CustomLink to='/reviews'>REVIEWS</CustomLink>
                 <CustomLink to='/deshboard'>DASHBOARD</CustomLink>

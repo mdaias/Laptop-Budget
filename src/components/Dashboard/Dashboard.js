@@ -42,7 +42,7 @@ const Dashboard = () => {
     return (
         <div>
             <h1 className='text-6xl text-blue-800 font-mono text-center'>Deshboard</h1>
-            <div className="my-10 mx-10 grid md:grid-cols-2 grid-cols-1 sm:grid-cols-1 justify-around items-center gap-32">
+            <div className="my-10 mx-10 grid md:grid-cols-2 sm:grid-cols-1 grid-cols-1 justify-around items-center gap-32">
 
                 <div className='AreaChart'>
                     <h1 className='my-6 text-center text-4xl text-cyan-400'>Investment VS Sell</h1>
