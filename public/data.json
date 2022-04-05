@@ -1,62 +1,82 @@
 [
-    {
-      "id": "16e6c5",
-      "price": "740",
-      "picture": "./images/image1.jpg",
-      "name": "Darlene Schwartz"
-    },
-    {
-      "id": "2f68fc",
-      "price": "520",
-      "picture": "./images/image2.jpg",
-      "name": "Candice Cross"
-    },
-    {
-      "id": "fb0fd5",
-      "price": "800",
-      "picture": "./images/image3.jpg",
-      "name": "Alicia Curry"
-    },
-    {
-      "id": "142ce5",
-      "price": "1100",
-      "picture": "./images/image4.jpg",
-      "name": "Jay Mitchell"
-    },
-    {
-      "id": "f472013",
-      "price": "1000",
-      "picture": "./images/image5.jpg",
-      "name": "Brandon Greer"
-    },
-    {
-      "id": "39bc55",
-      "price": "950",
-      "picture": "./images/image6.jpg",
-      "name": "Angela Salazar"
-    },
-    {
-      "id": "62k30b",
-      "price": "1400",
-      "picture": "./images/image7.jpg",
-      "name": "Bryant Walsh"
-    },
-    {
-      "id": "61i50b",
-      "price": "1700",
-      "picture": "./images/image8.jpg",
-      "name": "Kim Mullins"
-    },
-    {
-      "id": "5jk3ds",
-      "price": "1350",
-      "picture": "./images/image9.jpg",
-      "name": "Hilda Daniels"
-    },
-    {
-      "id": "62a50b",
-      "price": "1500",
-      "picture": "./images/image10.jpg",
-      "name": "Willie Strickland"
-    }
-  ]
+  {
+    "id": "624c115954dae360a846ceee",
+    "balance": "$2,410.32",
+    "picture": "./images/image1.jpg",
+    "rating": 4,
+    "name": "Contreras Patrick",
+    "comment": "Unfortunately the laptop would not power up when I received it. We requested a refund and were quickly approved to return the item"
+  },
+  {
+    "id": "624c115998057c012fadc1af",
+    "balance": "$2,625.22",
+    "picture": "./images/image2.jpg",
+    "rating": 3,
+    "name": "Lambert Jarvis",
+    "comment": "Unfortunately the laptop would not power up when I received it. We requested a refund and were quickly approved to return the item"
+  },
+  {
+    "id": "624c115953dff32b3e84c30b",
+    "balance": "$3,126.03",
+    "picture": "./images/image3.jpg",
+    "rating": 5,
+    "name": "Winters Burt",
+    "comment": "So far I love this laptop. I wanted something to use for school that was compatible with the docking station I use for my work laptop and this is. Purchasing my work model was way out of my budget. The laptop looks brand new, no scratches, everything is running well so far. I'm very happy with my purchase"
+  },
+  {
+    "id": "624c1159a56fb2a6ba5f994d",
+    "balance": "$1,092.97",
+    "picture": "./images/image4.jpg",
+    "rating": 5,
+    "name": "Lowe Obrien",
+    "comment": "This is the first refurbished computer I’ve ever purchased and although I was somewhat skeptical when I ordered it, I was delighted to see that it looks, feels and acts like a brand new laptop! I have the same exact same model for work and absolutely love it, which is why I bought this one"
+  },
+  {
+    "id": "624c1159672e02be1cd986c2",
+    "balance": "$3,719.22",
+    "picture": "./images/image5.jpg",
+    "rating": 4.5,
+    "name": "Donovan Morrison",
+    "comment": "This is the first refurbished computer I’ve ever purchased and although I was somewhat skeptical when I ordered it, I was delighted to see that it looks, feels and acts like a brand new laptop! I have the same exact same model for work and absolutely love it, which is why I bought this one"
+  },
+  {
+    "id": "624c1159ffeadf66e7f9683b",
+    "balance": "$1,024.10",
+    "picture": "./images/image6.jpg",
+    "rating": 5,
+    "name": "Schultz Ortega",
+    "comment": "I bought this device for my wife to help her focus on writing while still giving her the power to do other things on the device should she choose in the future / while on vacation / etc"
+  },
+  {
+    "id": "624c11591d76118953863284",
+    "balance": "$2,657.28",
+    "picture": "./images/image7.jpg",
+    "rating": 5,
+    "name": "Gay Allen",
+    "comment": "The equipment arrived in perfect aesthetic condition, it works perfectly... the only one but is that the keyboard is in English, but it was definitely an excellent purchase"
+  },
+  {
+    "id": "624c11590b883bd1f6b83cfc",
+    "balance": "$2,144.65",
+    "picture": "./images/image8.jpg",
+    "rating": 4,
+    "name": "Amanda Cabrera",
+    "comment": "It is a very good machine, fast and light. The bad thing is that everything comes English, and keyboard keys come changed places, creates a lot of confusion"
+  },
+  {
+    "id": "624c115972a472c540e6d029",
+    "balance": "$2,554.75",
+    "picture": "./images/image9.jpg",
+    "rating": 5,
+    "name": "Catherine Pitts",
+    "comment": "To this day it works very well, the keyboard very comfortable, I still can't find some Spanish keys but the most frequent ones I already use them. It has a rough but good-looking film that surely covers the scratches of the cover and keyboard area. Only two small bumps are observed on the edge of the lid, otherwise it looks and works like new"
+  },
+  {
+    "id": "624c115972a472c540e9d003",
+    "balance": "$2,554.75",
+    "picture": "./images/image10.jpg",
+    "rating": 2,
+    "name": "Levio Pitts",
+    "comment": "I bought this computer thinking it will do the for a mall tasks as I dont have but 2 programs in there that are small. I have a lot of free space left on the computer but every 15 minutes blue Microsoft screen comes on and says your computer ran into a problem, we are trying to fix it. Seriously? I paid well north of 400 bucks to keep having issues? Don't waste you money on this junk. This is going back for a refund"
+  }
+]

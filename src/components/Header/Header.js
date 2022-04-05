@@ -11,12 +11,12 @@ const Header = () => {
                     Laptop Budget
                 </Link>
             </div>
-            <div className='flex gap-4 text-xl'>
-                <CustomLink to='/home'>Home</CustomLink>
-                <CustomLink to='/reviews'>Reviews</CustomLink>
-                <CustomLink to='/deshboard'>DashBoard</CustomLink>
-                <CustomLink to='/blogs'>Blogs</CustomLink>
-                <CustomLink to='/about'>About</CustomLink>
+            <div className='flex gap-4 text-xl font-bold'>
+                <CustomLink to='/home'>HOME</CustomLink>
+                <CustomLink to='/reviews'>REVIEWS</CustomLink>
+                <CustomLink to='/deshboard'>DASHBOARD</CustomLink>
+                <CustomLink to='/blogs'>BLOGS</CustomLink>
+                <CustomLink to='/about'>ABOUT</CustomLink>
             </div>
         </div>
 
