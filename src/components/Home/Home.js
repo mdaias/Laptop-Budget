@@ -10,7 +10,7 @@ const Home = () => {
 
     return (
         <div>
-            <section className='flex flex-row justify-center items-center bg-white'>
+            <section className='flex md:flex-row flex-col  justify-center items-center bg-white'>
                 <div className="details-part mx-10">
                     <div className='mb-6'>
                         <h1 className='font-bold text-6xl'>Your Next Laptop</h1>
